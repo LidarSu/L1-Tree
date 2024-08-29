@@ -4,8 +4,5 @@ Branch architecture provides crucial information for the understanding of plant 
 
 The source code for the L1-Tree algorithm is provided here, and can be downloaded freely.
 
-<figure>
-  <center><img src="./Data/flowchart.jpg"></center>
-  <center>Flowchart of the L1-Tree algorithm</center>
-</figure>
-
+<center><img src="./Data/flowchart.jpg"></center>
+<center>Flowchart of the L1-Tree algorithm</center>
