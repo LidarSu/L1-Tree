@@ -6,5 +6,8 @@ The source code for the L1-Tree algorithm is provided here, and can be downloade
 
 <p align="center">
   <img src="./Data/flowchart.jpg">
-  <figcaption>Flowchart of the L1-Tree algorithm</figcaption>
+</p>
+
+<p align="center">
+  <strong></strong> This is the caption for the image.
 </p>
