@@ -9,5 +9,5 @@ The source code for the L1-Tree algorithm is provided here, and can be downloade
 </p>
 
 <p align="center">
-  <strong></strong> This is the caption for the image.
+  <figcation>**Flowchart of the L1-Tree algorithm**</figcation>
 </p>
