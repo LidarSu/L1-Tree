@@ -1,5 +1,8 @@
-# L1-Tree algorithm
+# L1-Tree: A novel algorithm for constructing 3D tree models and estimating branch architectural traits using TLS data
 
-The point cloud data of the 24 trees mentioned in the article were in the Data folder, and the 3D models of these trees were in the Results folder
+Branch architecture provides crucial information for the understanding of plant trait variability and the adaptive strategies employed by trees in response to their environment. However, the complex canopy structure of trees in natural forests and the presence of occlusion in TLS data pose significant challenges to achieving this goal. In this study, we present a novel algorithm, L1-Tree, for the construction of 3D tree models and the estimation of architectural traits from TLS data. This algorithm, rooted in L1-Median, not only has a high branch recognition rate, branch attribute estimation accuracy, but also has a stronger resistance to missing data and noise than traditional algorithms. We believe it will provide an accurate alternative for TLS data-based tree architecture studies, thereby advancing our understanding of the role of tree architecture in affecting the ecological functions of trees.
 
-You can easily get 3D models of the abovementioned 24 trees by adjusting the parameter "fileName" in the Main.m file. Additionally, you can obtain your own 3D tree model by placing the point cloud file in the Data folder and adjusting the Main.m file as instructed
+The source code for the L1-Tree algorithm is provided here, and can be downloaded freely.
+
+![Illustration](./Data/flowchart.jpg)
+
