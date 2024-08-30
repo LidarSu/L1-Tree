@@ -11,3 +11,6 @@ The source code for the L1-Tree algorithm is provided here, and can be downloade
 <p align="center">
   <strong>Flowchart of the L1-Tree algorithm</strong>
 </p>
+
+## Reference
+Yuhao Feng, Yanjun Su*, Jiatong Wang, Jiabo Yan, Xiaotian Qi, Eduardo Eiji Maeda, Matheus Henrique Nunes, Xiaoxia Zhao, Xiaoqiang Liu, Xiaoyong Wu, Chen Yang, Jiamin Pan, Kai Dong, Danhua Zhang, Tianyu Hu, Jingyun Fang*, 2024. L1-Tree: A novel algorithm for constructing 3D tree models and estimating branch architectural traits using terrestrial laser scanning data. Remote Sensing of Environment 314, 114390. https://doi.org/10.1016/j.rse.2024.114390
